@@ -1,0 +1,6 @@
+git clone https://github.com/yourusername/my-ai-agent.git
+cd my-ai-agent
+echo "print('AI agent running!')" > main.py
+git add .
+git commit -m "Initial AI agent commit"
+git push origin main
