@@ -1,0 +1,7 @@
+name: AI Agent Runner
+on:
+  push:
+    branches: [ main ]
+jobs:
+  run:
+    runs-on: ubuntu-latest
